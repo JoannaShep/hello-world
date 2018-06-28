@@ -1,2 +1,2 @@
 # hello-world
-practict
+This is practice
